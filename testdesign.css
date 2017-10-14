@@ -1,3 +1,5 @@
 h1 {font-family: "Comic Sans MS", cursive, sans-serif;  width: 550px; color: #426493;}
 body {font-family: "Lucida Console", Monaco, monospace; background-color: #ffccff;  color: #ff3399}
 #header {text-align: center; background-color: #993399; border-style: dotted;}
+#content {width: 75%; margin-top: 30px; margin-left: auto; margin-right: auto;}
+#big {font-size: 150%}
